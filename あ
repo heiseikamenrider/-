@@ -1,0 +1,911 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>金沢大学附属中学校</title>
+<meta property="og:url" content="http://partner.ed.kanazawa-u.ac.jp/futyu/" />
+<meta property="og:site_name" content="金沢大学附属学校園" />
+<meta property="fb:admins" content="">
+<meta property="og:type" content="website" />
+<meta property="og:image" content="http://partner.ed.kanazawa-u.ac.jp/archives/005/square-ogpImage.png" />
+<meta property="og:title" content="金沢大学附属中学校" />
+<meta name="keywords" content="石川県,北陸,金大,附属,付属,kindai">
+<meta name="description" content="金沢大学附属中学校公式ホームページ。「自由闊達な気風の中で、豊かな人間性と確かな学力を持った生徒の育成を目指す」を教育目標に掲げています。">
+<meta property="og:description" content="金沢大学附属中学校公式ホームページ。「自由闊達な気風の中で、豊かな人間性と確かな学力を持った生徒の育成を目指す」を教育目標に掲げています。" />
+<meta name="viewport" content="width=960" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://partner.ed.kanazawa-u.ac.jp/futyu/rss2.xml">
+<link href="/themes/futyu/css/reset.css" rel="stylesheet" type="text/css" media="all">
+<link href="/themes/system/css/acms.css" rel="stylesheet" type="text/css" media="all">
+<link href="/themes/futyu/css/site.css" rel="stylesheet" type="text/css" media="all">
+<link rel="shortcut icon" href="/themes/futyu/favicon.ico" >
+<!--[if lte IE 9]><script src="/themes/futyu/js/html5shiv-printshiv.js"></script><![endif]-->
+<script type="text/javascript" src="/index.js?domains=partner.ed.kanazawa-u.ac.jp&amp;jsDir=js/&amp;themesDir=/themes/&amp;bid=5&amp;bcd=futyu&amp;jQuery=1.8.3&amp;umfs=100M&amp;pms=100M&amp;mfu=20&amp;scriptRoot=/" charset="UTF-8" id="acms-js"></script>
+<link rel="stylesheet" type="text/css" href="/themes/futyu/js/themes/default/jquery.slider.css">
+<!--[if IE 6]>
+<link rel="stylesheet" type="text/css" href="/themes/futyu/js/themes/default/jquery.slider.ie6.css">
+<![endif]-->
+<script type="text/javascript" src="/themes/futyu/js/jquery.slider.min.js"></script>
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+$(".main_slider").slideshow({
+width : 690,
+height : 210,
+bars : 10,
+navigation : false,
+transition : 'BarLeft'
+});
+});
+</script>
+<script type="text/javascript">
+$(document).ready(function(){
+$('.slider1').bxSlider({
+auto: true,
+autoStart: true,
+moveSlides: 1,
+slideWidth: 200,
+minSlides: 1,
+maxSlides: 5,
+slideMargin: 10,
+pager: false
+});
+});
+</script>
+<script type="text/javascript">
+$(function() {
+var topBtn = $('#pageTop'); 
+topBtn.hide();
+//スクロールが100に達したらボタン表示
+$(window).scroll(function () {
+if ($(this).scrollTop() > 100) {
+topBtn.fadeIn();
+} else {
+topBtn.fadeOut();
+}
+});
+//スクロールしてトップ
+topBtn.click(function () {
+$('body,html').animate({
+scrollTop: 0
+}, 500);
+return false;
+});
+});
+</script>
+<script type="text/javascript">
+$(function() {
+if ( 'on' == $.cookie('js-switch_theme[0]') ) {
+$('#switch_theme').show();
+}
+});
+</script>
+<script> 
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ 
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), 
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) 
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga'); 
+
+ga('create', 'UA-1816125-32', 'kanazawa-u.ac.jp'); 
+ga('send', 'pageview'); 
+
+</script>
+<meta name="generator" content="a-blog cms" />
+</head>
+<body><script type="text/javascript" src="https://ad.netowl.jp/js/star-php.js"></script>
+<header id="headWrapper" class="clearfix">
+<div id="header">
+<div id="siteTitle">
+<h1 id="siteName"><a href="http://partner.ed.kanazawa-u.ac.jp/futyu/"><img src="/archives/005/201308/521201a44b29f.png" alt="金沢大学附属中学校"> </a>
+</h1>
+</div>
+<nav class="">
+<ul id="headUtilityNavi" class="clearfix">
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/" target="_self">
+金沢大学附属学校園
+</a>
+</li>
+<li >
+<a href="/futyu/other/inquiry.html" target="_self">
+お問い合わせ
+</a>
+</li>
+<li >
+<a href="/futyu/other/sitemap.html" target="_self">
+サイトマップ
+</a>
+</li>
+<li >
+<a href="/futyu/other/link.html" target="_self">
+リンク
+</a>
+</li>
+</ul>
+</nav>
+<section id="search">
+<form action="" method="post" id="searchForm">
+<input type="text" name="keyword" size="15" id="searchText" value="" /><input type="text" name="iebug" value="" style="display:none;" class="iebug" /><input type="submit" name="ACMS_POST_2GET" id="searchSsubmit" value="" alt="検索" />
+<input type="hidden" name="bid" value="5" />
+<input type="hidden" name="cid" value="89" />
+</form>
+</section>
+</div>
+</header>
+<nav id="globalNavi">
+<ul class="clearfix">
+<li class="nav_global_01">
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/intro/schoolintro" target="_self">
+学校紹介
+</a>
+<ul class="clearfix">
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/intro/schoolintro" target="_self">
+学校長挨拶
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/intro/mission" target="_self">
+教育目標＆使命
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/intro/plan" target="_self">
+学校運営計画
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/intro/selfassessment" target="_self">
+学校自己評価
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/intro/history" target="_self">
+沿革
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/intro/schoolsong" target="_self">
+校歌・讃歌
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/intro/map" target="_self">
+アクセスマップ
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/intro/kyoikujissen" target="_self">
+教育実践紹介
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/intro/photo" target="_self">
+ギャラリー－平和町校舎
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/intro/oldschool" target="_self">
+ギャラリー－広坂旧校舎
+</a>
+</li>
+</ul>
+</li>
+<li class="nav_global_02">
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/info/admissioninfo" target="_self">
+お知らせ
+</a>
+<ul class="clearfix">
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/info/admissioninfo" target="_self">
+入学試験情報
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/info/intern" target="_self">
+教育実習生
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/info/recruitment" target="_self">
+教員公募
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/info/hakuyokai" target="_self">
+柏葉会（同窓会）
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/info/schoolinfo" target="_self">
+その他
+</a>
+</li>
+</ul>
+</li>
+<li class="nav_global_03">
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/education/granddesign" target="_self">
+学校教育
+</a>
+<ul class="clearfix">
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/education/granddesign" target="_self">
+グランドデザイン
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/education/textbook" target="_self">
+採択教科書
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/education/moralsplan" target="_self">
+道徳全体計画
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/education/masterplan" target="_self">
+総合全体計画
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/education/clubguideline" target="_self">
+部活動ガイドライン
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/education/basicpolicy" target="_self">
+学校いじめ防止基本方針
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/education/commendation1" target="_self">
+表彰記録－部活動等成績
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/education/commendation2" target="_self">
+表彰記録－各種表彰
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/education/commendation3" target="_self">
+表彰記録－その他
+</a>
+</li>
+</ul>
+</li>
+<li class="nav_global_04">
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/research/researchsession" target="_self">
+研究・紀要
+</a>
+<ul class="clearfix">
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/research/researchsession" target="_self">
+教育研究発表会
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/research/researchreport" target="_self">
+研究紀要
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/research/shitei" target="_self">
+研究指定等
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu//research/kakenhi/" target="_self">
+奨励研究（科研費）
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/research/researchinfo" target="_self">
+その他
+</a>
+</li>
+</ul>
+</li>
+<li class="nav_global_05">
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/practice/creativedesign" target="_self">
+創造デザイン科
+</a>
+<ul class="clearfix">
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/practice/creativedesign" target="_self">
+創造デザイン科とは?
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/practice/1stgrade" target="_self">
+第１学年のページ
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/practice/2ndgrade" target="_self">
+第２学年のページ
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/practice/3rdgrade" target="_self">
+第３学年のページ
+</a>
+</li>
+</ul>
+</li>
+<li class="nav_global_06">
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/parents/rikantodoke" target="_self">
+保護者
+</a>
+<ul class="clearfix">
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/parents/rikantodoke" target="_self">
+感染り患届
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/parents/application" target="_self">
+各種届出・申込用紙
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/parents/scheduleinfo" target="_self">
+年間・月行事予定
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/parents/handouts" target="_self">
+配布物
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/parents/classinfo" target="_self">
+学年からのお知らせ
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/parents/events" target="_self">
+授業・行事等の様子
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/parents/questionnaire" target="_self">
+学校評価アンケート
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/parents/ikuyukaisite" target="_self">
+育友会のページ
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/parents/parentsinfo" target="_self">
+その他のお知らせ
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+<div id="wrapper">
+<form action="" method="post" id="switch_theme" style="display:none;">
+<input type="hidden" name="cookie[]" value="acms_http_header_User-Agent" />
+<input type="hidden" name="cookie[]" value="acms_config_theme" />
+<input type="hidden" name="acms_http_header_User-Agent" value="Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_1_3 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7E18 Safari/528.16" />
+<input type="submit" name="ACMS_POST_Cookie" value="スマートフォン版に切り替える" />
+</form>
+<div class="main_slider_outer ">
+<div class="main_slider">
+<div>
+<a href="intro/schoolintro/" target="_self"><img src="/archives/005/201405/5379d3bae8853.jpg" width="690" height="210" alt="自由闊達な気風，広い視野と豊かな人間性，将来の社会的使命" /></a>
+</div><div>
+<a href="research/researchsession/" target="_self"><img src="/archives/005/201308/52157b0eb5119.jpg" width="690" height="210" alt="研究発表会のご案内" /></a>
+</div><div>
+<a href="intro/schoolintro/" target="_self"><img src="/archives/005/201308/52147d0536ee9.jpg" width="690" height="210" alt="中学校校舎" /></a>
+</div><div>
+<a href="https://project-heso.w3.kanazawa-u.ac.jp/" target="_self"><img src="/archives/005/202306/6487c5966a2c8.jpg" width="690" height="210" alt="" /></a>
+</div>
+</div>
+</div>
+<div id="targetNaviArea">
+<div id="targetNavi01" class="">
+<h2><img src="/themes/futyu/include/../images/title_targetNavi01.png" alt="保護者の方" /></h2>
+<ul class="clearfix">
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/parents/rikantodoke/" target="_self">
+感染症り患届
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/parents/handouts/" target="_self">
+配布物
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/parents/scheduleinfo/" target="_self">
+年間・月行事予定
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/parents/ikuyukaisite/" target="_self">
+育友会のページ
+</a>
+</li>
+</ul>
+</div>
+<div id="targetNavi02" class="">
+<h2><img src="/themes/futyu/include/../images/title_targetNavi02.png" alt="教育関係者の方" /></h2>
+<ul class="clearfix">
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/research/researchsession/" target="_self">
+教育研究発表会
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/research/researchreport/" target="_self">
+研究紀要
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/research/shitei/" target="_self">
+研究指定等
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/practice/creativedesign" target="_self">
+創造デザイン科
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/info/recruitment/" target="_self">
+教員公募
+</a>
+</li>
+</ul>
+</div>
+<div id="targetNavi03" class="">
+<h2><img src="/themes/futyu/include/../images/title_targetNavi03.png" alt="入学希望の方" /></h2>
+<ul class="clearfix">
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/info/admissioninfo/" target="_self">
+入学試験情報
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/intro/schoolintro/" target="_self">
+学校紹介
+</a>
+</li>
+</ul>
+</div>
+</div> <section class="topTopics ">
+<h2><img src="/themes/futyu/images/title_topHeadline.png" alt="新着情報" /><a href="/futyu/other/headline.html"><img src="/themes/futyu/images/title_topHeadline_list.png" alt="一覧はこちら" /></a></a><a href="/futyu/rss2.xml"><img src="/themes/futyu/images/icon_rss.png" alt="RSS" /></a></h2>
+<ul id="headline">
+<li><a href="http://partner.ed.kanazawa-u.ac.jp/futyu/info/intern/entry-10403.html">
+<span class="headlineDat">2023年08月03日</span>
+<span class="headlineCategory">教育実習生</span>
+教育実習　事前オリエンテーション（８／１８実施）
+</a></li>
+<li><a href="http://partner.ed.kanazawa-u.ac.jp/futyu/parents/handouts/entry-10393.html">
+<span class="headlineDat">2023年07月20日</span>
+<span class="headlineCategory">配布物</span>
+学校だよりＮｏ１７
+</a></li>
+<li><a href="http://partner.ed.kanazawa-u.ac.jp/futyu/parents/handouts/entry-10388.html">
+<span class="headlineDat">2023年07月18日</span>
+<span class="headlineCategory">配布物</span>
+学校だよりＮｏ１６
+</a></li>
+<li><a href="http://partner.ed.kanazawa-u.ac.jp/futyu/parents/handouts/entry-10377.html">
+<span class="headlineDat">2023年07月05日</span>
+<span class="headlineCategory">配布物</span>
+学校だよりＮｏ１５
+</a></li>
+<li><a href="http://partner.ed.kanazawa-u.ac.jp/futyu/info/admissioninfo/entry-10369.html">
+<span class="headlineDat">2023年07月03日</span>
+<span class="headlineCategory">入学試験情報</span>
+令和６年度　生徒募集要項
+</a></li>
+<li><a href="http://partner.ed.kanazawa-u.ac.jp/futyu/info/admissioninfo/entry-10368.html">
+<span class="headlineDat">2023年07月03日</span>
+<span class="headlineCategory">入学試験情報</span>
+令和６年度　生徒募集要項（帰国生）
+</a></li>
+<li><a href="http://partner.ed.kanazawa-u.ac.jp/futyu/info/admissioninfo/entry-10367.html">
+<span class="headlineDat">2023年07月03日</span>
+<span class="headlineCategory">入学試験情報</span>
+入試説明会と学校公開について
+</a></li>
+<li><a href="http://partner.ed.kanazawa-u.ac.jp/futyu/parents/handouts/entry-10370.html">
+<span class="headlineDat">2023年07月01日</span>
+<span class="headlineCategory">配布物</span>
+学校だよりＮｏ１４
+</a></li>
+<li><a href="http://partner.ed.kanazawa-u.ac.jp/futyu/parents/handouts/entry-10351.html">
+<span class="headlineDat">2023年06月21日</span>
+<span class="headlineCategory">配布物</span>
+学校だよりＮｏ１３
+</a></li>
+<li><a href="http://partner.ed.kanazawa-u.ac.jp/futyu/education/commendation1/entry-10328.html">
+<span class="headlineDat">2023年06月12日</span>
+<span class="headlineCategory">表彰記録－部活動等成績</span>
+令和５年度　部活動等成績（６月１２日更新）
+</a></li>
+<li><a href="http://partner.ed.kanazawa-u.ac.jp/futyu/parents/handouts/entry-10326.html">
+<span class="headlineDat">2023年06月09日</span>
+<span class="headlineCategory">配布物</span>
+学校だよりＮｏ１２
+</a></li>
+<li><a href="http://partner.ed.kanazawa-u.ac.jp/futyu/parents/handouts/entry-10321.html">
+<span class="headlineDat">2023年06月07日</span>
+<span class="headlineCategory">配布物</span>
+学校だよりＮｏ１１
+</a></li>
+<li><a href="http://partner.ed.kanazawa-u.ac.jp/futyu/parents/handouts/entry-10317.html">
+<span class="headlineDat">2023年06月02日</span>
+<span class="headlineCategory">配布物</span>
+学校だよりＮｏ１０
+</a></li>
+<li><a href="http://partner.ed.kanazawa-u.ac.jp/futyu/research/researchsession/entry-10309.html">
+<span class="headlineDat">2023年05月24日</span>
+<span class="headlineCategory">教育研究発表会</span>
+令和５年度　第71回教育研究発表会一次案内の掲載
+</a></li>
+<li><a href="http://partner.ed.kanazawa-u.ac.jp/futyu/parents/handouts/entry-10304.html">
+<span class="headlineDat">2023年05月23日</span>
+<span class="headlineCategory">配布物</span>
+学校だよりNo9
+</a></li>
+<li><a href="http://partner.ed.kanazawa-u.ac.jp/futyu/practice/3rdgrade/entry-10302.html">
+<span class="headlineDat">2023年05月22日</span>
+<span class="headlineCategory">第３学年のページ</span>
+令和4年度の年間実践記録を公開します。
+</a></li>
+<li><a href="http://partner.ed.kanazawa-u.ac.jp/futyu/practice/2ndgrade/entry-10301.html">
+<span class="headlineDat">2023年05月22日</span>
+<span class="headlineCategory">第２学年のページ</span>
+令和4年度の年間実践記録を公開します。
+</a></li>
+<li><a href="http://partner.ed.kanazawa-u.ac.jp/futyu/practice/1stgrade/entry-10300.html">
+<span class="headlineDat">2023年05月22日</span>
+<span class="headlineCategory">第１学年のページ</span>
+令和4年度の年間実践記録を公開します。
+</a></li>
+<li><a href="http://partner.ed.kanazawa-u.ac.jp/futyu/practice/creativedesign/entry-10288.html">
+<span class="headlineDat">2023年05月16日</span>
+<span class="headlineCategory">創造デザイン科とは?</span>
+創造デザイン科とは?
+</a></li>
+<li><a href="http://partner.ed.kanazawa-u.ac.jp/futyu/parents/handouts/entry-10282.html">
+<span class="headlineDat">2023年05月12日</span>
+<span class="headlineCategory">配布物</span>
+学校だよりNo8
+</a></li>
+</ul>
+</section>
+<ul id="squareBanner" class=" clearfix">
+<li><a href="research/researchsession/" target="_self"><img src="/archives/005/201308/5211e91c11122.jpg" width="210" height="210" alt="研究発表のご案内" /></a></li>
+<li><a href="intro/map/" target="_self"><img src="/archives/005/201308/5211e91c118b8.jpg" width="210" height="210" alt="ご案内地図" /></a></li>
+</ul>
+</div>
+<div id="loopBanner" class="">
+<ul class="slider1" style="margin:0">
+<li>
+<a href="info/admissioninfo/" target="_self"><img src="/archives/005/201308/52147c7fb4e46.jpg" width="200" height="60" alt="入学情報。生徒募集要項はコチラ。" /></a>
+</li><li>
+<a href="http://www.kanazawa-u.ac.jp/" target="_blank"><img src="/archives/005/201308/5211e7217b506.jpg" width="200" height="60" alt="金沢大学" /></a>
+</li><li>
+<a href="http://www.hakuyokai.jp/" target="_self"><img src="/archives/005/201308/52147c7fb5efd.jpg" width="200" height="60" alt="柏葉会。本校同窓会情報はこちらよりご覧ください。" /></a>
+</li><li>
+<a href="education/commendation1/" target="_self"><img src="/archives/005/201308/52147c7fb6797.jpg" width="200" height="60" alt="部活動。運動系・文化系部活動の表彰記録。" /></a>
+</li><li>
+<a href="intro/mission/" target="_self"><img src="/archives/005/201308/52147c7fb7761.jpg" width="200" height="60" alt="教育目標。本校の教育目標と使命。" /></a>
+</li><li>
+<a href="https://project-heso.w3.kanazawa-u.ac.jp/" target="_self"><img src="/archives/005/202306/6487c5b437847.jpg" width="200" height="60" alt="" /></a>
+</li>
+</ul>
+</div>
+<footer id="footWrapper">
+<div id="footer">
+<p id="siteid_footer"><a href="/futyu/"><img src="/themes/futyu/images/siteid_footer.png" alt="金沢大学附属中学校" /></a></p>
+<nav id="footNavi">
+<ul class="clearfix">
+<li class="nav_global_01">
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/intro/schoolintro" target="_self">
+学校紹介
+</a>
+<ul class="clearfix">
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/intro/schoolintro" target="_self">
+学校長挨拶
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/intro/mission" target="_self">
+教育目標＆使命
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/intro/plan" target="_self">
+学校運営計画
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/intro/selfassessment" target="_self">
+学校自己評価
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/intro/history" target="_self">
+沿革
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/intro/schoolsong" target="_self">
+校歌・讃歌
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/intro/map" target="_self">
+アクセスマップ
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/intro/kyoikujissen" target="_self">
+教育実践紹介
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/intro/photo" target="_self">
+ギャラリー－平和町校舎
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/intro/oldschool" target="_self">
+ギャラリー－広坂旧校舎
+</a>
+</li>
+</ul>
+</li>
+<li class="nav_global_02">
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/info/admissioninfo" target="_self">
+お知らせ
+</a>
+<ul class="clearfix">
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/info/admissioninfo" target="_self">
+入学試験情報
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/info/intern" target="_self">
+教育実習生
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/info/recruitment" target="_self">
+教員公募
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/info/hakuyokai" target="_self">
+柏葉会（同窓会）
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/info/schoolinfo" target="_self">
+その他
+</a>
+</li>
+</ul>
+</li>
+<li class="nav_global_03">
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/education/granddesign" target="_self">
+学校教育
+</a>
+<ul class="clearfix">
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/education/granddesign" target="_self">
+グランドデザイン
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/education/textbook" target="_self">
+採択教科書
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/education/moralsplan" target="_self">
+道徳全体計画
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/education/masterplan" target="_self">
+総合全体計画
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/education/clubguideline" target="_self">
+部活動ガイドライン
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/education/basicpolicy" target="_self">
+学校いじめ防止基本方針
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/education/commendation1" target="_self">
+表彰記録－部活動等成績
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/education/commendation2" target="_self">
+表彰記録－各種表彰
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/education/commendation3" target="_self">
+表彰記録－その他
+</a>
+</li>
+</ul>
+</li>
+<li class="nav_global_04">
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/research/researchsession" target="_self">
+研究・紀要
+</a>
+<ul class="clearfix">
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/research/researchsession" target="_self">
+教育研究発表会
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/research/researchreport" target="_self">
+研究紀要
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/research/shitei" target="_self">
+研究指定等
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/research/kakenhi/" target="_self">
+奨励研究（科研費）
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/research/researchinfo" target="_self">
+その他
+</a>
+</li>
+</ul>
+</li>
+<li class="nav_global_05">
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/practice/creativedesign" target="_self">
+創造デザイン科
+</a>
+<ul class="clearfix">
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/practice/creativedesign" target="_self">
+創造デザイン科とは?
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/practice/1stgrade" target="_self">
+第１学年のページ
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/practice/2ndgrade" target="_self">
+第２学年のページ
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/practice/3rdgrade" target="_self">
+第３学年のページ
+</a>
+</li>
+</ul>
+</li>
+<li class="nav_global_06">
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/parents/rikantodoke" target="_self">
+保護者
+</a>
+<ul class="clearfix">
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/parents/rikantodoke" target="_self">
+感染り患届
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/parents/application" target="_self">
+各種届出・申込用紙
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/parents/scheduleinfo" target="_self">
+年間・月行事予定
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/parents/handouts" target="_self">
+配布物
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/parents/classinfo" target="_self">
+学年からのお知らせ
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/parents/events" target="_self">
+授業・行事等の様子
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/parents/questionnaire" target="_self">
+学校評価アンケート
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/parents/ikuyukaisite" target="_self">
+育友会のページ
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/futyu/parents/parentsinfo" target="_self">
+その他のお知らせ
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+<nav class="">
+<ul id="footUtilityNavi" class="clearfix">
+<li >
+<a href="/futyu/login.html" target="_self">
+教職員ログイン
+</a>
+</li>
+<li >
+<a href="http://partner.ed.kanazawa-u.ac.jp/" target="_self">
+金沢大学附属学校園
+</a>
+</li>
+<li >
+<a href="/futyu/other/inquiry.html" target="_self">
+お問い合わせ
+</a>
+</li>
+<li >
+<a href="/futyu/other/sitemap.html" target="_self">
+サイトマップ
+</a>
+</li>
+<li >
+<a href="/futyu/other/link.html" target="_self">
+リンク
+</a>
+</li>
+</ul>
+</nav>
+<p id="pageTop"><a href="#"><img src="/themes/futyu/images/btn_pagetop.png" width="60" height="60" alt="ページの先頭へ" /></a></p>
+<address>
+<dl id="companyAbout">
+<dt>金沢大学附属中学校</dt>
+<dd>〒921-8105</dd>
+<dd>石川県金沢市平和町1-1-15</dd>
+<dd>TEL : 076-226-2121</dd>
+<dd>FAX : 076-226-2122</dd>
+</dl>
+</address>
+</div>
+<div id="copyright">
+<p>Copyright &copy; Kanazawa University. All Rights Reserved.</p>
+</div>
+</footer>
+</body>
+</html>
